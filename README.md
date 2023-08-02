@@ -1,4 +1,4 @@
-# bulldozer-sale-price-predictions
+# Predicting the Sale Price of Bulldozers using Machine Learning
 Welcome to the Bulldozer Sale Price Predictions project! In this project, we aim to predict the sale prices of bulldozers using machine learning regression techniques. This README file provides an overview of the project structure, files, and datasets.
 
 ## Project Files
